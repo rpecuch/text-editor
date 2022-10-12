@@ -1,0 +1,28 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "An online and offline text editor that utilizes an IndexedDB database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpecuch/text-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/rpecuch/text-editor/issues"
+  },
+  "homepage": "https://github.com/rpecuch/text-editor#readme"
+}
