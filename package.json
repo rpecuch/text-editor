@@ -1,5 +1,5 @@
 {
-  "name": "text-editor",
+  "name": "JATE",
   "version": "1.0.0",
   "description": "An online and offline text editor that utilizes an IndexedDB database.",
   "main": "server.js",
